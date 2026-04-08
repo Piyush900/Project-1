@@ -8,3 +8,5 @@ Example: You create a branch called feature-login to build a login system while 
 
 
 If you want, I can show you the actual commands used in Git (like git branch and git merge) or a visual diagram
+
+me pagal ho rha hu 
