@@ -1,1 +1,4 @@
 hello and welcome to this text file 
+
+
+A branch is like a separate copy of your project where you can make changes without affecting the main version.
