@@ -5,3 +5,6 @@ A branch is like a separate copy of your project where you can make changes with
 
 
 Example: After finishing feature-login, you merge it into main so everyone gets the new feature.
+
+
+A branch is like a separate copy of your project where you can make changes without affecting the main version.

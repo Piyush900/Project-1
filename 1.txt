@@ -5,3 +5,6 @@ It looks like you meant “branch and merge” (often used in version control, e
 
 
 Example: You create a branch called feature-login to build a login system while the main project stays unchanged.
+
+
+If you want, I can show you the actual commands used in Git (like git branch and git merge) or a visual diagram
