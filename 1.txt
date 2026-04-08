@@ -2,3 +2,6 @@ hello my name is piyush and i dont what am i doing
 
 
 It looks like you meant “branch and merge” (often used in version control, especially with Git).
+
+
+Example: You create a branch called feature-login to build a login system while the main project stays unchanged.
